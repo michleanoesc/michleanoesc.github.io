@@ -19,48 +19,7 @@
 <link rel="alternate" type="application/rss+xml" href="http://michleanoesc-t.tumblr.com/rss"/>
 <link rel="shortcut icon" href="http://38.media.tumblr.com/avatar_bc2787129e21_128.png"/>
 
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="image:background" content=""/>
-<meta name="color:background" content="#ffffff"/>
-<meta name="color:title" content="#4f4f4f"/>
-<meta name="color:text" content="#6f6f6f"/>
-<meta name="color:accent" content="#9f9f9f"/>
-<meta name="color:accent border" content="#e9e9e9"/>
-<meta name="color:posts" content="#f8f8f8"/>
-<meta name="select:posts" content="250px" title="250px"/>
-<meta name="select:posts" content="300px" title="300px"/>
-<meta name="select:posts" content="350px" title="350px"/>
-<meta name="select:posts" content="500px" title="500px"/>
-<meta name="select:font" content="karla" title="Karla"/>
-<meta name="select:font" content="source-sans-pro" title="Source Sans Pro"/>
-<meta name="select:font" content="source-serif-pro" title="Source Serif Pro"/>
-<meta name="select:font" content="inconsolata" title="Inconsolata"/>
-<meta name="select:font" content="courier-prime" title="Courier Prime"/>
-<meta name="select:captions" content="" title="normal"/>
-<meta name="select:captions" content="inline" title="inline"/>
-<meta name="select:captions" content="inline clipped" title="clipped"/>
-<meta name="select:captions" content="hidden" title="hidden"/>
-<meta name="if:lowercase" content="0"/>
-<meta name="if:show description" content="0"/>
-<meta name="if:tile background" content="1"/>
-<meta name="if:infinite scroll" content="0"/>
-<meta name="text:other font" content=""/>
-<meta name="text:font size" content=""/>
-<meta name="text:home link" content=""/>
-<meta name="text:archive link" content=""/>
-<meta name="text:ask link" content="message"/>
-<meta name="text:link 1" content=""/>
-<meta name="text:link 1 url" content=""/>
-<meta name="text:link 2" content=""/>
-<meta name="text:link 2 url" content=""/>
-<meta name="text:link 3" content=""/>
-<meta name="text:link 3 url" content=""/>
-<meta name="text:link 4" content=""/>
-<meta name="text:link 4 url" content=""/>
-<meta name="text:link 5" content=""/>
-<meta name="text:link 5 url" content=""/>
-<meta name="text:link 6" content=""/>
-<meta name="text:link 6 url" content=""/>
+
 <script src="//use.edgefonts.net/karla:n4,n5,i4,n7,i7.js"></script>
 <style type="text/css">
 ::-webkit-scrollbar {
