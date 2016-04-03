@@ -31,7 +31,7 @@
                     body {
 
                         font-size: 12px;
-                        font-family: karla, sans-serif;
+                        font-family: helvetica, sans-serif;
                         font-size: 15;
                         line-height: 1.67em;
                         word-wrap: break-word;
@@ -84,19 +84,37 @@
                         margin-top: calc(-500px/2);
                         left: 0;
                         z-index: 5;
-                        width: 170px;
+                        width: 350px;
                         height: 500px;
                         padding: 0px 60px 0px 60px;
                         background-color: #ffffff;
                         border-right: 1px solid rgba(13, 0, 255, .67);
                      }
                     .sidebar {
-                        text-align:center;
+                        text-align:left;
                         position:absolute;
-                        top:50%;
-                        -webkit-transform:translateY(-50%);
-                        transform:translateY(-50%);
-                        width:160px;
+                        top:40%;
+                        -webkit-transform:translateY(-40%);
+                        transform:translateY(-40%);
+                        width: 300px;
+                        height: 306px;
+                        border: 1px rgb(89, 89, 89) outset;
+
+
+                        border: rgb(89, 89, 89); /* For browsers that do not support gradients */        
+                        border: -webkit-linear-gradient(135deg, #004eff, #00feba); /* For Safari 5.1 to 6.0 */
+                        border: -o-linear-gradient(135deg, #004eff, #00feba); /* For Opera 11.1 to 12.0 */
+                        border: -moz-linear-gradient(135deg, #004eff, #00feba); /* For Firefox 3.6 to 15 */
+                        border: linear-gradient(135deg, #004eff, #00feba); /* Standard syntax (must be last) */
+}
+
+
+
+                        -webkit-box-sizing: border-box;
+                        -moz-box-sizing: border-box;
+                        box-sizing: border-box;
+                       padding: 30px;
+                        margin: 50px
                     }
                     #title {
                         margin-right:1px;
@@ -108,6 +126,8 @@
                     .desc {
                         padding:0 0 1em;
                     }
+
+                    #menu box 
 
                     #content {
                     position: absolute;
@@ -137,7 +157,7 @@
                     }
 
                     a:active {
-                        text-decoration: underline;
+                        text-decoration: none;
                     }
                     small, sub {
                         font-size:1em;
